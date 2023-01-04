@@ -1,4 +1,4 @@
-Global COVID-19 Deaths - Data Exploration
+Global COVID-19 Deaths: Data Exploration
 
 Explore the global data on confirmed COVID-19 deaths between 24 Feb 2020 and 16 December 2022
  
